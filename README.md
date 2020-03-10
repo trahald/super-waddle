@@ -13,7 +13,7 @@ This file will become your README and also the index of your documentation.
 There is not mistake just one function.
 
 ```python
-say_hi()
+say_bye("as")
 ```
 
 
